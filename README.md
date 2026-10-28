@@ -27,4 +27,6 @@ EV_Tableau_Project/
 │   └── templates/
 │       └── index.html
 └── requirements.txt
-💡 Industry Scenarios AddressedScenario 1: Market Strategy Analysis (Emily Johnson)Category sales breakdown, high-growth segment identification, and driving range benchmarks.Scenario 2: Competitive Intelligence & Benchmarking (David Chen)Manufacturer market share analysis, regional production footprint, and price vs. customer satisfaction ratings.Scenario 3: Battery Technology & Sustainability Research (Dr. Sarah Williams)Comparative evaluation of battery chemistries (LFP, NMC, NCA, Solid-State) and efficiency metrics ($km/kWh$).🛠️ How to Run LocallyPrerequisitesPython 3.10+Tableau Desktop or Tableau Public account
+
+##💡 Industry Scenarios AddressedScenario
+1: Market Strategy Analysis (Emily Johnson)Category sales breakdown, high-growth segment identification, and driving range benchmarks.Scenario 2: Competitive Intelligence & Benchmarking (David Chen)Manufacturer market share analysis, regional production footprint, and price vs. customer satisfaction ratings.Scenario 3: Battery Technology & Sustainability Research (Dr. Sarah Williams)Comparative evaluation of battery chemistries (LFP, NMC, NCA, Solid-State) and efficiency metrics ($km/kWh$).🛠️ How to Run LocallyPrerequisitesPython 3.10+Tableau Desktop or Tableau Public account
